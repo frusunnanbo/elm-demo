@@ -1,0 +1,7 @@
+# elm-package generated files
+elm-stuff/
+# elm-repl generated files
+repl-temp-*
+
+# all .js files are generated (so far)
+*.js
